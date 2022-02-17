@@ -263,9 +263,9 @@ Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | :metal:
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/bloges56/learn-git-milestones/commit/0d402228b354d52e8c0c35d9829f0c06933ec9cb)
-1c | Link to markdown tables docs |
-1d | What does `log` do? |
-2a | 2nd Favorite emoji |
+1c | Link to markdown tables docs | [markdown tables] (https://www.markdownguide.org/extended-syntax/#tables)
+1d | What does `log` do? | Shows commit history
+2a | 2nd Favorite emoji | :v:
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
