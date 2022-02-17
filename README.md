@@ -272,7 +272,7 @@ Item # | Description | Completed
 2e | 3rd Favorite emoji | :dancers:
 2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/bloges56/learn-git-milestones/commit/a9a01a97937ba019fd505b7ce5ac885be13d972f)
 3a | Link to `my-awesome-project` github.com repo page | [my-awesome-project](https://github.com/bloges56/my-awesome-project)
-4a | Link to `my-awesome-project` github.io "project site" | 
+4a | Link to `my-awesome-project` github.io "project site" | [project site] (https://bloges56.github.io/my-awesome-project/)
 ... | ... | Total: 0/12
 
 
