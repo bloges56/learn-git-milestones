@@ -270,9 +270,9 @@ Item # | Description | Completed
 2c | Full path to your working directory | /c/Users/brady/DIG250/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/bloges56/learn-git-milestones/commit/488ead8588c353aa2fc7254034fb4cfa155c56aa)
 2e | 3rd Favorite emoji | :dancers:
-2f | Link to `commit #4 from Atom` | 
-3a | Link to `my-awesome-project` github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" |
+2f | Link to `commit #4 from Atom` | [commit #4 from Atom](https://github.com/bloges56/learn-git-milestones/commit/a9a01a97937ba019fd505b7ce5ac885be13d972f)
+3a | Link to `my-awesome-project` github.com repo page | [my-awesome-project](https://github.com/bloges56/my-awesome-project)
+4a | Link to `my-awesome-project` github.io "project site" | 
 ... | ... | Total: 0/12
 
 
