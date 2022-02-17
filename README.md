@@ -268,9 +268,9 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | :v:
 2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/bloges56/learn-git-milestones/commit/b38e5f5e2aaf6390b5952c1840160dacbc6003ad)
 2c | Full path to your working directory | /c/Users/brady/DIG250/learn-git-milestones
-2d | Link to `commit #3 from CLI` | 
-2e | 3rd Favorite emoji |
-2f | Link to `commit #4 from Atom` |
+2d | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/bloges56/learn-git-milestones/commit/488ead8588c353aa2fc7254034fb4cfa155c56aa)
+2e | 3rd Favorite emoji | :dancers:
+2f | Link to `commit #4 from Atom` | 
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
